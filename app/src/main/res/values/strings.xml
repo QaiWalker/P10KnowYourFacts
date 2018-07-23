@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P10KnowYourFacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">The word \"queue\" is the only word in the English language that is still pronounced the same way when the last four letters are removed.</string>
+    <string name="second">Honey is the only food that does not spoil. Honey found in the tombs of Egyptian pharaohs has been tasted by archaeologists and found edible.</string>
+    <string name="third">\"Almost\" is the longest word in the English language with all the letters in alphabetical order.</string>
+    <string name="colour">Change Colour</string>
+</resources>
